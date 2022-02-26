@@ -1,6 +1,8 @@
+# This is an AWS SAM app that uses Rekognition APIs to detect text in S3 Objects and stores labels in DynamoDB.
+
 # aws_sam_ocr
 
-This is an AWS SAM app that uses Rekognition APIs to detect text in S3 Objects and stores labels in DynamoDB.
+https://github.com/coding-to-music/aws_sam_ocr
 
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-example-s3.html
 
